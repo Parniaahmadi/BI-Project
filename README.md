@@ -1,1 +1,1 @@
-# BI-Project, This project showcase the Data analysis 
+# BI-Project, This project showcases the Data analysis 
