@@ -1,1 +1,1 @@
-# BI-Project, This project showcases the Data analysis 
+# BI-Project, This project showcases Power Querry and Data Analysis.
