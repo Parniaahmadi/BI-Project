@@ -12,3 +12,10 @@ First picture, Shows the Sales model view
 On the Second picture, you will see Returns model view.
 
 ![Screenshot 2024-04-27 112244](https://github.com/Parniaahmadi/BI-Project/assets/129201205/f91f7d39-c11a-488a-95ef-20946f381b33)
+
+
+Tips for bulding models:
+- Make sure to start with building a normalized model.Ensure that each table plays a clear and distinct role by leveraging relationships.
+- In the model, organize dimension tables above data tables.This serves as a visual cue that filters always flow "downstream".
+- Unless it is absolutely necessary, avoid using complex relationships.Whenever possible, use 1-to-many table relationships and one-way filters.
+- To prevent an invalid filter context, hide fields from the report view.This compels report users to filter using primary keys from dimension tables.
